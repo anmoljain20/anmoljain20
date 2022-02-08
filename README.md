@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anmoljain20
-- 👀 I’m interested in Linux,AWS
-- 🌱 I’m currently learning python, Terraform
+- 👀 I’m interested in Linux,AWS Cloud
+- 🌱 I’m currently learning python, Kubernetes, Terraform
 - 💞️ I’m looking to collaborate on Linux/AWS/Automation projects
 
 <!---
